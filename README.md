@@ -14,6 +14,34 @@ The robot has no prior information regadiing the maze enviroment.
 * Robot Operating System (ROS) - noetic
 * Gazebo
 
+## Results
+FIrst of all, clone this repo in the catkin_ws folder using the terminal.
+Type  ```catkin_make``` in the terminal, to build the code in catkin workspace.
+Type the following command to launch Sahayak with ROS Controls in Gazebo :
+``` shell
+roslaunch sahayak teleop.launch
+```
+### Teleoperation
+After launching the sahayak bot from previous instructions, run the code in terminal using the following command :
+``` shell
+rosrun ros_task sahayak_teleop.py
+```
+
+### Wall Follower
+
+After launching the sahayak bot from previous instructions, run the code in terminal using the following command :
+``` shell
+rosrun ros_task wall_follower.py
+```
+
+### Maze - solver
+
+After launching the sahayak bot from previous instructions, run the code in terminal using the following command :
+``` shell
+rosrun ros_task maze_solver.py
+```
+
+
 ## Python Requirements
 ``` shell
 pip install -r requirement.txt
