@@ -50,7 +50,7 @@ def goal():
             if(mini - 0.2 <= b[c] <= mini+0.5):
                 print("moving")
                 move(5,-5,5,-5)
-            elif(b[c] > mini + 0.5 and (c>150 or c<30)):
+            elif(b[c] > mini + 0.1 and (c>150 or c<30)):
                 print("greater distance turning.")
                 move(-5,-5,-5,-5)
 
