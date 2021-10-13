@@ -26,6 +26,7 @@ After launching the sahayak bot from previous instructions, run the code in term
 ``` shell
 rosrun ros_task sahayak_teleop.py
 ```
+![](https://github.com/msi-67/Maze-solver/blob/main/ezgif.com-gif-maker.gif)
 
 ### Wall Follower
 
