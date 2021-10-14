@@ -1,7 +1,7 @@
 # Maze-solver
 
 ## Description 
-In this project we are goimg to simulate a robot using Robot Operating System (ROS) for solving a maze creeated in gazebo enviroment.
+In this project we are going to simulate a robot using Robot Operating System (ROS) for solving a maze creeated in gazebo enviroment.
 The robot has no prior information regadiing the maze enviroment.
 ### SAHAYAK BOT was used as a robot in this project. 
 #### This project was basically done in 3 steps :
@@ -16,6 +16,7 @@ The robot has no prior information regadiing the maze enviroment.
 
 ## Results
 FIrst of all, clone this repo in the catkin_ws folder using the terminal.
+Change the directory to catkin_ws.
 Type  ```catkin_make``` in the terminal, to build the code in catkin workspace.
 Type the following command to launch Sahayak with ROS Controls in Gazebo :
 ``` shell
