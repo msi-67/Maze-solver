@@ -13,6 +13,17 @@ The robot has no prior information regadiing the maze enviroment.
 * Ubuntu Operating System
 * Robot Operating System (ROS) - noetic
 * Gazebo
+## Python Requirements
+``` shell
+pip install -r requirement.txt
+```
+## Required ROS Packages
+``` shell
+xargs sudo apt install < ros_requirements.txt
+```
+
+## Launch Files
+`teleop.launch` launch all ROS Controller along with Gazebo.
 
 ## Results
 FIrst of all, clone this repo in the catkin_ws folder using the terminal.
