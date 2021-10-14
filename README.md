@@ -34,6 +34,7 @@ After launching the sahayak bot from previous instructions, run the code in term
 ``` shell
 rosrun ros_task wall_follower.py
 ```
+![](https://github.com/msi-67/Maze-solver/blob/main/wall_follower.gif)
 
 ### Maze - solver
 
