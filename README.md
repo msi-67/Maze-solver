@@ -57,14 +57,3 @@ rosrun ros_task solving_the_maze.py
 ![](https://github.com/msi-67/Maze-solver/blob/main/maze-solver-1.gif)
 ![](https://github.com/msi-67/Maze-solver/blob/main/maze-2.gif)
 
-## Python Requirements
-``` shell
-pip install -r requirement.txt
-```
-## Required ROS Packages
-``` shell
-xargs sudo apt install < ros_requirements.txt
-```
-
-## Launch Files
-`teleop.launch` launch all ROS Controller along with Gazebo.
