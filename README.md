@@ -43,6 +43,7 @@ After launching the sahayak bot from previous instructions, run the code in term
 rosrun ros_task maze_solver.py
 ```
 ![](https://github.com/msi-67/Maze-solver/blob/main/maze-solver-1.gif)
+![](https://github.com/msi-67/Maze-solver/blob/main/maze-2.gif)
 
 ## Python Requirements
 ``` shell
