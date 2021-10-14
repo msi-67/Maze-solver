@@ -1,8 +1,8 @@
 # Maze-solver
 
 ## Description 
-In this project we are going to simulate a robot using Robot Operating System (ROS) for solving a maze creeated in gazebo enviroment.
-The robot has no prior information regadiing the maze enviroment.
+In this project we are going to simulate a robot using Robot Operating System (ROS) for solving a maze created in gazebo enviroment.
+The robot has no prior information regardiing the maze enviroment.
 ### SAHAYAK BOT was used as a robot in this project. 
 #### This project was basically done in 3 steps :
 * Teleoperation of Sahayak bot.
