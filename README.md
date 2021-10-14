@@ -25,7 +25,7 @@ roslaunch sahayak teleop.launch
 ### Teleoperation
 After launching the sahayak bot from previous instructions, run the code in terminal using the following command :
 ``` shell
-rosrun ros_task sahayak_teleop.py
+rosrun ros_task teleop_sahayak.py
 ```
 ![](https://github.com/msi-67/Maze-solver/blob/main/teleop.gif)
 
@@ -33,7 +33,7 @@ rosrun ros_task sahayak_teleop.py
 
 After launching the sahayak bot from previous instructions, run the code in terminal using the following command :
 ``` shell
-rosrun ros_task wall_follower.py
+rosrun ros_task Wall_Follower.py
 ```
 ![](https://github.com/msi-67/Maze-solver/blob/main/wall_follower.gif)
 
@@ -41,7 +41,7 @@ rosrun ros_task wall_follower.py
 
 After launching the sahayak bot from previous instructions, run the code in terminal using the following command :
 ``` shell
-rosrun ros_task maze_solver.py
+rosrun ros_task solving_the_maze.py
 ```
 ![](https://github.com/msi-67/Maze-solver/blob/main/maze-solver-1.gif)
 ![](https://github.com/msi-67/Maze-solver/blob/main/maze-2.gif)
